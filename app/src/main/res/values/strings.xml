@@ -37,5 +37,7 @@
     <string name="msg_removed">Removed</string>
     <string name="search_hint">Search track...</string>
     <string name="error_permission_denied">Permission Denied</string>
+    <string name="default_track_name">Unknown Track</string>
+    <string name="default_author">Unknown Author</string>
 
 </resources>

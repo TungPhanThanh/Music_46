@@ -8,4 +8,5 @@
     <color name="color_white_azure">#dad5d5</color>
     <color name="color_gray_600">#847c03</color>
     <color name="color_yellow_400">#352a01</color>
+    <color name="color_gray_900">#fdf7f7</color>
 </resources>
